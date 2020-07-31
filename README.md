@@ -4,6 +4,8 @@ metamask setting
 
 [https://medium.com/avalabs/deploy-a-smart-contract-on-ava-using-remix-and-metamask-98933a93f436](https://medium.com/avalabs/deploy-a-smart-contract-on-ava-using-remix-and-metamask-98933a93f436)
 
+[!image](https://user-images.githubusercontent.com/12705423/89011265-43f64b80-d33a-11ea-9267-402af8f7b786.png)
+
 
 validators
 ```
