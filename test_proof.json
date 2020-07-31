@@ -1,0 +1,197 @@
+{
+  "blockHeight": "247214",
+  "oracleDataProof": {
+    "requestPacket": {
+      "client_id": "bandchain.js",
+      "oracle_script_id": "13",
+      "calldata": "AAAABExJTksAAAADQ05ZAAAABm1lZGlhbgAAAAAAD0JA",
+      "ask_count": "4",
+      "min_count": "3"
+    },
+    "responsePacket": {
+      "client_id": "bandchain.js",
+      "request_id": "22512",
+      "ans_count": "4",
+      "request_time": "1596177975",
+      "resolve_time": "1596177978",
+      "resolve_status": 1,
+      "result": "AAAAAAM3a8A="
+    },
+    "version": "247162",
+    "merklePaths": [
+      {
+        "isDataOnRight": true,
+        "subtreeHeight": 1,
+        "subtreeSize": "2",
+        "subtreeVersion": "247162",
+        "siblingHash": "E09339B563FF328DC8A07640AC1A3BB532E79FC1B469BB297CA7CFF403A952CF"
+      },
+      {
+        "isDataOnRight": true,
+        "subtreeHeight": 2,
+        "subtreeSize": "4",
+        "subtreeVersion": "247162",
+        "siblingHash": "E96E49F59554AF3549AF000922F372333F8D50B3AEE6A1FC6A8EC945DFB646FC"
+      },
+      {
+        "isDataOnRight": true,
+        "subtreeHeight": 3,
+        "subtreeSize": "8",
+        "subtreeVersion": "247162",
+        "siblingHash": "E7F1703A0E167E40814DB3A5A26BAF3B3A1EC3B83612F2F5ED4B307DBB3221CC"
+      },
+      {
+        "isDataOnRight": true,
+        "subtreeHeight": 4,
+        "subtreeSize": "16",
+        "subtreeVersion": "247162",
+        "siblingHash": "F676F5DCA8C97FAB7F53EA31498F12CCEB3AD58BED1F9B94B80998BEC6357666"
+      },
+      {
+        "isDataOnRight": true,
+        "subtreeHeight": 5,
+        "subtreeSize": "24",
+        "subtreeVersion": "247162",
+        "siblingHash": "3348F8908875B098D5183899E6EAAD3F1A22C1A215947454923DC36953D4E4E1"
+      },
+      {
+        "isDataOnRight": true,
+        "subtreeHeight": 6,
+        "subtreeSize": "40",
+        "subtreeVersion": "247162",
+        "siblingHash": "FDB933220C4AD01C0037E89F3AA2BFDBB75FF6C5FC27A9550B9A31257BF618D1"
+      },
+      {
+        "isDataOnRight": true,
+        "subtreeHeight": 7,
+        "subtreeSize": "104",
+        "subtreeVersion": "247162",
+        "siblingHash": "E216F4141F61A6295ECA2A16C327EC977DF67E0ACBC35A878102E4B6A9F1EF09"
+      },
+      {
+        "isDataOnRight": true,
+        "subtreeHeight": 8,
+        "subtreeSize": "232",
+        "subtreeVersion": "247162",
+        "siblingHash": "DFDDDE0A82ED97ED3C6B2BACD95238D7BF516F85B4365A59DD18B15D1D368944"
+      },
+      {
+        "isDataOnRight": true,
+        "subtreeHeight": 9,
+        "subtreeSize": "488",
+        "subtreeVersion": "247162",
+        "siblingHash": "43549599121FF38C385D576DF0BC15D1D274A5F7D1BBC9BF12294DBC27E18D5E"
+      },
+      {
+        "isDataOnRight": true,
+        "subtreeHeight": 10,
+        "subtreeSize": "744",
+        "subtreeVersion": "247162",
+        "siblingHash": "12925CC7DA4252CD62D2AF4D6E33427E6D6AFE5397C8B93014C5D127A7EA8FB5"
+      },
+      {
+        "isDataOnRight": true,
+        "subtreeHeight": 11,
+        "subtreeSize": "1256",
+        "subtreeVersion": "247162",
+        "siblingHash": "D31495019EBA14E8137C8427A5FA148BBC446BA4A197A5090231289C1E145E86"
+      },
+      {
+        "isDataOnRight": true,
+        "subtreeHeight": 12,
+        "subtreeSize": "2280",
+        "subtreeVersion": "247162",
+        "siblingHash": "37767B98CBD520B16568E0FA6A918275CD01FB54BCAC5AFF6425F9D299DEF1C8"
+      },
+      {
+        "isDataOnRight": true,
+        "subtreeHeight": 13,
+        "subtreeSize": "6376",
+        "subtreeVersion": "247162",
+        "siblingHash": "7C5E294F8339A9C0D6C6A2C6DFF3EE684C4F65F6C2AF091D61C977F1064DA8B0"
+      },
+      {
+        "isDataOnRight": true,
+        "subtreeHeight": 14,
+        "subtreeSize": "14567",
+        "subtreeVersion": "247162",
+        "siblingHash": "A4768429031651E3EF290B7E096C87D19C20D4333BFAB5EDDF2A9EF9ACFA2156"
+      },
+      {
+        "isDataOnRight": true,
+        "subtreeHeight": 15,
+        "subtreeSize": "22672",
+        "subtreeVersion": "247162",
+        "siblingHash": "0F4A42FA774B43F377B3D7C3E49113B20ECE7A70122DEB248E70137A8EF71AC0"
+      },
+      {
+        "isDataOnRight": true,
+        "subtreeHeight": 16,
+        "subtreeSize": "43796",
+        "subtreeVersion": "247162",
+        "siblingHash": "03EC1E41DB9CEBA95CB7E4DDBC13D36BD1E0E0BD264F37BC9A086150D0832AD0"
+      },
+      {
+        "isDataOnRight": true,
+        "subtreeHeight": 17,
+        "subtreeSize": "74724",
+        "subtreeVersion": "247162",
+        "siblingHash": "888B8C34916570A368FDAE801936FA67C522E311C76F126393F3BBC09EE8023D"
+      },
+      {
+        "isDataOnRight": true,
+        "subtreeHeight": 18,
+        "subtreeSize": "111479",
+        "subtreeVersion": "247162",
+        "siblingHash": "52EF191E36D7CE20E310E1D8BCB3C4033514E3A02C130D84F9DC0982576B6AD1"
+      },
+      {
+        "isDataOnRight": true,
+        "subtreeHeight": 19,
+        "subtreeSize": "135220",
+        "subtreeVersion": "247213",
+        "siblingHash": "3DF936162A3F46FEC621F56A3C2637C10E117F92C92A953504C3076B9088E61A"
+      }
+    ]
+  },
+  "blockRelayProof": {
+    "multiStoreProof": {
+      "accToGovStoresMerkleHash": "966F698BE80AD00832F572D0F54937CB6AF7509C439A75A147865B54A78A2EAC",
+      "mainAndMintStoresMerkleHash": "5E7A5FD33BEC88E563C3842A1488D92D719A358218C110278DBE220A842C03CF",
+      "oracleIAVLStateHash": "C13D270BD763DAB17CBB8A6D2004840A59F13599456A6689E24C7E29A459018D",
+      "paramsStoresMerkleHash": "2B6A7E0F44ED9C179A47A40F93D5824189A5426D6C3F77692DE28E50E20A33DD",
+      "slashingToUpgradeStoresMerkleHash": "F78FCEC9F1664199DFA8C9215B17CC139FA551D307335EAE70328C32B2B97D85"
+    },
+    "blockHeaderMerkleParts": {
+      "versionAndChainIdHash": "3C4013F177D8199344E259E9D86ED024B1784978CC35BDEAC3C18996BF672A7D",
+      "timeHash": "8F4AF1F65A0E349C62198C43B0C500E1836C1FB11E39E7D27C8DF5CE604EB175",
+      "lastBlockIDAndOther": "2A57E3CE0862C1DC4FC8B3047806695D567CA4F9F0C5B873135B88A63292248F",
+      "nextValidatorHashAndConsensusHash": "BDD02ADCC0126F1CA426B1E83054EDAC4F73547B7ADB11511DE2F7A0EB3A5E9C",
+      "lastResultsHash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D",
+      "evidenceAndProposerHash": "0E406F530FFF2A2632212FEFB2C30F47216F56765AE5B38445A194146248EC26"
+    },
+    "signatures": [
+      {
+        "r": "5485904D61832C9EE02296E5132FC96A2BA11A338BB8097E3A870399B62924C4",
+        "s": "23851C5DDAAC27C4C0A519868521E14983486B9C3E67EAA5A8D437513283D5CA",
+        "v": 28,
+        "signedPrefixSuffix": "77080211AEC503000000000022480A20",
+        "signedDataSuffix": "12240A204191EFFAF86B0556DAA38448164EF7917E868F15838042B6635F6A192B68ED4B10012A0B08DEFD8EF90510E293C829321362616E642D6775616E79752D6465766E657436"
+      },
+      {
+        "r": "31CDF3ACA917C78132BF6EB5967D2A2B133D8D1B6A20E4657BA8EBA37E65EAE8",
+        "s": "15E6286FF302FD5806CBE10A2E2CC229FCC44338D214E4A545DDCD005BC5D056",
+        "v": 28,
+        "signedPrefixSuffix": "77080211AEC503000000000022480A20",
+        "signedDataSuffix": "12240A204191EFFAF86B0556DAA38448164EF7917E868F15838042B6635F6A192B68ED4B10012A0B08DEFD8EF90510F58AEE34321362616E642D6775616E79752D6465766E657436"
+      },
+      {
+        "r": "0584CB2EA924570C2BE16BB2990A44C7E24D6CC2A1552E179C4642C289E9A09A",
+        "s": "5ED86C2AD8AF56ED4491BCF591CAED67034764A1275F261756C2E3F537E09801",
+        "v": 28,
+        "signedPrefixSuffix": "77080211AEC503000000000022480A20",
+        "signedDataSuffix": "12240A204191EFFAF86B0556DAA38448164EF7917E868F15838042B6635F6A192B68ED4B10012A0B08DEFD8EF90510DBDDC640321362616E642D6775616E79752D6465766E657436"
+      }
+    ]
+  }
+}
