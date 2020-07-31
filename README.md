@@ -1,9 +1,8 @@
 # ava-deployment-example
 
 metamask setting
-```
-https://medium.com/avalabs/deploy-a-smart-contract-on-ava-using-remix-and-metamask-98933a93f436
-```
+[https://medium.com/avalabs/deploy-a-smart-contract-on-ava-using-remix-and-metamask-98933a93f436](https://medium.com/avalabs/deploy-a-smart-contract-on-ava-using-remix-and-metamask-98933a93f436)
+
 
 validators
 ```
